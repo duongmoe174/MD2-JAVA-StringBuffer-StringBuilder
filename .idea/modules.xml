@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CrawlMusicPage/CrawlMusicPage.iml" filepath="$PROJECT_DIR$/CrawlMusicPage/CrawlMusicPage.iml" />
       <module fileurl="file://$PROJECT_DIR$/String.iml" filepath="$PROJECT_DIR$/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidateEmail/ValidateEmail.iml" filepath="$PROJECT_DIR$/ValidateEmail/ValidateEmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidateNameOfClass/ValidateNameOfClass.iml" filepath="$PROJECT_DIR$/ValidateNameOfClass/ValidateNameOfClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/validateAccount/validateAccount.iml" filepath="$PROJECT_DIR$/validateAccount/validateAccount.iml" />
     </modules>
   </component>

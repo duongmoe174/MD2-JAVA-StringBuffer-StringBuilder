@@ -13,5 +13,12 @@ public class CountTime {
             builder.append(" World is mine");
         }
         System.out.println("Time of String Builder: " + (System.currentTimeMillis() - startTime2) + "ms");
+
+        long startTime3 = System.currentTimeMillis();
+        String string = "Hello Mother Father";
+        for (int i = 0; i < 200000; i++) {;
+           string.concat(" World is mine");
+        }
+        System.out.println("Time of String: " + (System.currentTimeMillis() - startTime3 + "ms"));
     }
 }
